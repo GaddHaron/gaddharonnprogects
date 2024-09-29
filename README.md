@@ -1,7 +1,5 @@
 Gwear website
 welcome to Gwear website..below is the guidline of how to g about the website
-(extract the .rar comressed file to get the file codes)
-
 1. copy all the html files in one folder as the directory
 2. on the web browser type index.html to view the wesite 
 from here you can execite the functionality listed below
