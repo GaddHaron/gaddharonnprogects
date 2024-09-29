@@ -1,0 +1,12 @@
+Gwear website
+welcome to Gwear website..below is the guidline of how to g about the website
+1. copy all the html files in one folder as the directory
+2. on the web browser type index.html to view the wesite 
+from here you can execite the functionality listed below
+
+functionalities:
+1. home page- this is the first page vied after running the website on the browser
+2.input on menu- here you will be able to input details on a form
+3.view inputs- the inputed details will be generated here i.e name image and dates.
+4.about page- where the information about the system is outlined
+5.feedback page - user can send feedback after interacting with the system
